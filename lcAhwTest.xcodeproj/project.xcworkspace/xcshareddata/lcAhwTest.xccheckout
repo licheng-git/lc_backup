@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C7459DA4-B33F-41E4-9838-5B5EBF43765A</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ac4acdc2-2e15-3240-98e2-45aa430aec2c++8912</key>
+		<string>https://itinside-54.zhongan.com.cn/svn/iOS/AHW/trunk/AHW/AHW/ThirdPartSDK/MJRflash/MJRefresh</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ac4acdc2-2e15-3240-98e2-45aa430aec2c++8912</key>
+		<string>MJRefresh/</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>ac4acdc2-2e15-3240-98e2-45aa430aec2c++8912</key>
+		<string>https://itinside-54.zhongan.com.cn/svn/iOS</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://itinside-54.zhongan.com.cn/svn/iOS/AHW/trunk/AHW/AHW/ThirdPartSDK/MJRflash/MJRefresh</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ac4acdc2-2e15-3240-98e2-45aa430aec2c++8912</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ac4acdc2-2e15-3240-98e2-45aa430aec2c++8912</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MJRefresh</string>
+		</dict>
+	</array>
+</dict>
+</plist>

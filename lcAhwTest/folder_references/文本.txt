@@ -1,0 +1,104 @@
+
+lichenggithub
+li.cheng@blemobi.com
+lc1234!@#$
+
+
+
+https://github.com/orgs/blemobi/invitation?via_email=1
+https://github.com/blemobi/data-transfer-protocol
+
+
+
+cd ~/desktop/img_svn
+svn co svn://192.168.1.254
+
+
+
+
+cd ~/Documents/
+ls
+git clone https://github.com/blemobi/ios-client.git
+账号
+秘密
+
+
+
+testflight
+http://www.cocoachina.com/ios/20141022/10009.html
+https://itunesconnect.apple.com
+apple@blemobi.com
+Sc0rpins
+li.cheng@blemobi.com
+lc1234!@#$
+
+Generic_iOS_Device (&& Build++) -> Product.Archive -> (Window.Organizer.)Export -> Xode.OpenDeveloperTool.ApplicationLoader
+
+
+
+
+CocoaPods
+http://www.jianshu.com/p/6e5c0f78200a
+gem sources --remove https://rubygems.org/
+gem sources -a https://ruby.taobao.org/
+gem sources -l
+sudo gem install cocoapods
+***password***
+pod setup
+
+pod search "xx"
+...
+
+cd ~/desktop/lc/WKDemo
+pod install
+
+
+
+
+WKDemo protobuf
+TARGETS -> WKDemo -> Build Settings -> Search Paths -> Header Search Paths +
+$(PROJECT_DIR)/WKDemo/protobuf/objectivec/
+
+lib大文件
+Users/mw03/melib/lib/
+TARGETS -> WKDemo -> Build Settings ->
+1、Search Paths -> Framework Search Paths -> +$(HOME)/melib/lib/
+2、Linking -> Other Linker Flags -> +framework +LWIMKit
+
+
+
+开发者真机调试
+Bundle Identifier不能超过十个
+~/Library/MobileDevice/Provisioning Profiles
+Build Settings -> Code Signing -> iOS Developer , Automatic
+
+
+
+
+
+shell命令
+
+遍历（包括子文件夹）
+find ~/desktop/lc_shell_test/ -iname "*.m"
+mdfind -onlyin ~/desktop/lc_shell_test m
+
+重命名（不包括子文件夹）
+cd ~/desktop/lc_shell_test
+for i in *.m; do mv "$i" "${i%.m}.m.txt"; done
+
+cd ~/desktop/lc_shell_test/
+find . -type f
+find . -type d
+find . -name "*.m"
+
+最终命令
+find ~/desktop/lc_shell_test -name "*.sb" －exec mv {} {}.txt \;
+
+
+
+
+
+
+
+
+
